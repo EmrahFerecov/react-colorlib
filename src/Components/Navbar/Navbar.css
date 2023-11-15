@@ -1,0 +1,38 @@
+.navbar-content {
+    background-color: black;
+    display: flex;
+    gap: 590px;
+    justify-content: center;
+    align-items: center;
+
+    .pulse {
+        color: white;
+
+        .noqte {
+            color: orangered;
+        }
+    }
+
+    .home-page {
+        font-size: 16px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        display: flex;
+        gap: 15px;
+        color: white;
+
+        .home {
+            color: orangered;
+        }
+
+    }
+
+    .reserv{
+        display: flex;
+        gap: 10px;
+        color: white;
+    }
+
+
+
+
+}
